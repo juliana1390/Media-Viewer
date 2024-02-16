@@ -22,3 +22,11 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# media
+*.mp3
+*.mp4
+/JavaFXApplication5/nbproject/private/
+/Media_Viewer_Project/nbproject/private/
+/Media_Viewer_Project/build/
+/Media_Viewer_Project/dist/
